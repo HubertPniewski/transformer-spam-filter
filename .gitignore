@@ -1,0 +1,17 @@
+# virtual envinronment
+venv/
+.venv/
+
+# data and models
+data/
+models/
+*.csv
+*.zip
+*.pt
+*.ptn
+
+# other 
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+.idea/
